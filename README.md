@@ -1,3 +1,3 @@
 #Sealhub
 
-Backend code for the Sealhub blog
+Backend code for Sealhub - a repository of thoughts on tech, dev and other topics
