@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "require-dir": "^0.3.0"
+  },
+  "devDependencies": {
+    "marky-markdown": "^5.4.0"
   }
 }
