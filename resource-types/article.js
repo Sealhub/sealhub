@@ -5,6 +5,6 @@ module.exports = new Sealious.ChipTypes.ResourceType({
 	fields: [
 		{name: "language", type: "language", required: true},
 		{name: "title", type: "text", required: true},
-		{name: "content", type: "text"}
+		{name: "content", type: "markdown-text"}
 	]
 });

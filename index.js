@@ -8,4 +8,5 @@ requireDir("./field-types");
 requireDir("./resource-types");
 
 
+Sealious.ChipManager.get_chip("channel", "rest").set_url_base("/api/v1");
 Sealious.start();
