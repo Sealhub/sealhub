@@ -1,2 +1,2 @@
 #!/bin/bash
-watchify -t reactify ./app/lib/components/routes.jsx -o ./app/public/js/main.build.js -v
+watchify -t reactify ./app/lib/main.jsx -o ./app/public/js/main.build.js -v

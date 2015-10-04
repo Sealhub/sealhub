@@ -7,7 +7,7 @@ var DefaultRoute = Router.DefaultRoute;
 
 var routes = (
 	<Route path="/" handler={Sealhub.App}>
-		<DefaultRoute name="main-view"/>
+		<DefaultRoute name="article-list" handler={Sealhub.ArticleList}/>
 		<Route name="other-view"/>
 	</Route>
 );
