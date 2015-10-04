@@ -9,11 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "event-emitter": "^0.3.4",
+    "qwest": "^2.1.0",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
     "require-dir": "^0.3.0",
     "sealious": "^0.6.10",
     "sealious-channel-rest": "^0.1.3"
   },
   "devDependencies": {
-    "marky-markdown": "^5.4.0"
+    "marky-markdown": "^5.4.0",
+    "reactify": "^1.1.1",
+    "watchify": "^3.4.0"
   }
 }
